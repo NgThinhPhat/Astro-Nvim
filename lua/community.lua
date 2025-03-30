@@ -14,6 +14,8 @@ return {
   { import = "astrocommunity.pack.cs" },
   { import = "astrocommunity.pack.docker" },
   { import = "astrocommunity.snippet.nvim-snippets" },
+  { import = "astrocommunity.pack.python" },
+  { import = "astrocommunity.workflow.hardtime-nvim" },
   --  { import = "astrocommunity.editing-support.refactoring-nvim" },
   -- { import = "astrocommunity.editing-support.auto-save-nvim" },
   { import = "astrocommunity.completion.copilot-cmp" },
